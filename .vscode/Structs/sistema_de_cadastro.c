@@ -14,7 +14,18 @@ typedef struct {
 
 
 int main(){
+    int status = 1;
+    while (status) {
+        printf("Choose an option:\n");
+        printf("-- Cadastro : 1\n");
+        printf("-- Listar Pedidos : 2\n");
+        printf("-- Encerrar : 3 \n");
+        int option;
+        scanf("%d", &option);
 
+        
+    }
+    
 
     return 0;
 }
