@@ -24,4 +24,13 @@ int mai(){
     //Calculo da Média
 
     Media = N1 + N2 + N3 + N4 / 4;
+
+    //Exibindo a Média do aluno
+
+    printf("Aluno: %s -- Média: %.2f \n",Aluno,Media);
+    printf("--- Notas por diciplina --- \n\n")
+    printf("Ciências da Natureza e suas Tecnologias: %.2f \n",N1);
+    printf("Ciências Humanas e Sociais Aplicadas: %.2f \n",N2);
+    printf("Linguagens e suas Tecnologias: %.2f \n",N3);
+    printf("Matemática e suas Tecnologias: %.2f \n",N4);
 }
