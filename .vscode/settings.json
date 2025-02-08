@@ -1,0 +1,6 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
