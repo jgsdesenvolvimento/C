@@ -11,6 +11,7 @@ int main(){
     printf("Informe o segundo númeoro: \n");
     scanf("%d", &Y);
 
+    //Testando a condição se o primeiro número é maior que o segundo.
     printf("%d é maior que %d ?\n",X,Y);
 
     if (X > Y)
