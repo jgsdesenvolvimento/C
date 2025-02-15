@@ -21,6 +21,7 @@ int main(){
 
     else printf("Não. \n");
 
+    //Testando a condição se o primeiro número é menor que o segundo.
     printf("%d é menor que %d ?\n",X,Y);
 
     if (X < Y)
