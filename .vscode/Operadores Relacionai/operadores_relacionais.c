@@ -51,6 +51,7 @@ int main(){
 
     else printf("Não. \n");
 
+    //Testando a condição se o primeiro número é igual o segundo.
     printf("%d é igual a %d ?\n",X,Y);
 
     if (X == Y)
