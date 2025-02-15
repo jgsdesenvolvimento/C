@@ -61,6 +61,7 @@ int main(){
 
     else printf("Não. \n");
 
+    //Testando a condição se o primeiro número é diferente do segundo.
     printf("%d é diferente de %d ?\n",X,Y);
 
     if (X != Y)
