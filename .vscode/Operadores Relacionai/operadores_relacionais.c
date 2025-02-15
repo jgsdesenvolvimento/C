@@ -5,6 +5,7 @@ int main(){
     //Declarando as váriaveis
     int X,Y;
 
+    //Coletando informações com o usúario
     printf("Informe o primeiro número: \n");
     scanf("%d", &X);
     printf("Informe o segundo númeoro: \n");
