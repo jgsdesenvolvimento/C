@@ -8,7 +8,7 @@ int main(){
     //Coletando informações com o usúario
     printf("Informe o primeiro número: \n");
     scanf("%d", &X);
-    printf("Informe o segundo númeoro: \n");
+    printf("Informe o segundo número: \n");
     scanf("%d", &Y);
 
     //Testando a condição se o primeiro número é maior que o segundo.
